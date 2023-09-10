@@ -1,0 +1,20 @@
+E:\22.11.5155\Meet1\CalculatorApp\CalculatorWinFormApp\bin\Debug\CalculatorWinFormApp.exe.config
+E:\22.11.5155\Meet1\CalculatorApp\CalculatorWinFormApp\bin\Debug\CalculatorWinFormApp.exe
+E:\22.11.5155\Meet1\CalculatorApp\CalculatorWinFormApp\bin\Debug\CalculatorWinFormApp.pdb
+E:\22.11.5155\Meet1\CalculatorApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.csprojAssemblyReference.cache
+E:\22.11.5155\Meet1\CalculatorApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.Form1.resources
+E:\22.11.5155\Meet1\CalculatorApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.Properties.Resources.resources
+E:\22.11.5155\Meet1\CalculatorApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.csproj.GenerateResource.cache
+E:\22.11.5155\Meet1\CalculatorApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.csproj.CoreCompileInputs.cache
+E:\22.11.5155\Meet1\CalculatorApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.exe
+E:\22.11.5155\Meet1\CalculatorApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.pdb
+D:\KULIAH\Semester 3\Pemro Lanjut\CalculatorForm-main\CalculatorApp\CalculatorWinFormApp\bin\Debug\CalculatorWinFormApp.exe.config
+D:\KULIAH\Semester 3\Pemro Lanjut\CalculatorForm-main\CalculatorApp\CalculatorWinFormApp\bin\Debug\CalculatorWinFormApp.exe
+D:\KULIAH\Semester 3\Pemro Lanjut\CalculatorForm-main\CalculatorApp\CalculatorWinFormApp\bin\Debug\CalculatorWinFormApp.pdb
+D:\KULIAH\Semester 3\Pemro Lanjut\CalculatorForm-main\CalculatorApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.csproj.AssemblyReference.cache
+D:\KULIAH\Semester 3\Pemro Lanjut\CalculatorForm-main\CalculatorApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.Form1.resources
+D:\KULIAH\Semester 3\Pemro Lanjut\CalculatorForm-main\CalculatorApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.Properties.Resources.resources
+D:\KULIAH\Semester 3\Pemro Lanjut\CalculatorForm-main\CalculatorApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.csproj.GenerateResource.cache
+D:\KULIAH\Semester 3\Pemro Lanjut\CalculatorForm-main\CalculatorApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 3\Pemro Lanjut\CalculatorForm-main\CalculatorApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.exe
+D:\KULIAH\Semester 3\Pemro Lanjut\CalculatorForm-main\CalculatorApp\CalculatorWinFormApp\obj\Debug\CalculatorWinFormApp.pdb
